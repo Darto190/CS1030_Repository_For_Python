@@ -21,3 +21,4 @@ for s in scores:
         highest = s
 
 print(f"Your highest score was: {highest}")
+
